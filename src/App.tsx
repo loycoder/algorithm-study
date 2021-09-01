@@ -1,4 +1,5 @@
 import "./styles.css";
+import "./queue/ordinary/index";
 
 export default function App() {
   return (
